@@ -18,11 +18,11 @@ La misión del jugador es atravesar el escenario cuidando de no tocar a los enem
 
 Existen 5 enemigos:
 
-* **Bomba**: ![https://lh3.googleusercontent.com/-yavMpsId9y0/WzWfqPSfztI/AAAAAAAAAmU/Ui3NVfgWeoM8P5ocIAUQJp475XSWz7xDwCL0BGAs/w3-d-h3-n-rw/bomba.png](https://lh3.googleusercontent.com/-yavMpsId9y0/WzWfqPSfztI/AAAAAAAAAmU/Ui3NVfgWeoM8P5ocIAUQJp475XSWz7xDwCL0BGAs/w530-d-h530-n-rw/bomba.png)Este enemigo se estará moviendo en el escenario con la habilidad de explotar y reintegrarse.
+* **Bomba**: Este enemigo se estará moviendo en el escenario con la habilidad de explotar y reintegrarse.
 * **Fuego**: ![]()Este enemigo tiene un movimiento aleatorio en el escenario, cuida de no quemarte.
-* **Fantasma**: ![]()Este enemigo tiene la habilidad de aparecer y desaparecer, cuidado puede tocarte sin que lo veas.
+* **Fantasma**: ![](https://lh3.googleusercontent.com/-A0fVeSb-j8E/WzWfxj7xrMI/AAAAAAAAAm8/pzvILrcXC8U7OMGLqOOTDzb4kSVSpQXYACL0BGAs/w171-d-h120-rw/fantasma.png)Este enemigo tiene la habilidad de aparecer y desaparecer, cuidado puede tocarte sin que lo veas.
 * **Serpiente**: ![]()Este enemigo tiene la capacidad de disparar veneno que se mueve aleatoriamente, es un arma de doble filo tanto ella como                  su veneno son mortales.
-* **Demonio**: ![]()Este enemigo estará cuidando la llave que te mostrará la puerta oculta, esquívalo y gana.
+* **Demonio**: ![](https://lh3.googleusercontent.com/-px4ptC6TAic/WzWftVFXSDI/AAAAAAAAAmo/f3MlhAUhNSgjD6GWoZN5SVHdyVXdmzTFwCL0BGAs/w100-d-h88-n-rw/demonio.png)Este enemigo estará cuidando la llave que te mostrará la puerta oculta, esquívalo y gana.
 
 ## Niveles
 En todos los niveles el jugador debe ir primero por la llave.
