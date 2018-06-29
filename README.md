@@ -24,7 +24,6 @@ Existen 5 enemigos:
 * **Serpiente**: Este enemigo tiene la capacidad de disparar veneno que se mueve aleatoriamente, es un arma de doble filo tanto ella como                  su veneno son mortales.
 * **Demonio**: Este enemigo estará cuidando la llave que te mostrará la puerta oculta, esquívalo y gana.
 
-![](https://lh3.googleusercontent.com/-YbAzx2BrgPI/WzWccixdzfI/AAAAAAAAAlw/pSgfEH--DHMU0HYBKEoA6iDp6aZjgm-swCL0BGAs/w530-d-h298-n-rw/bueno1.jpg)
 ## Niveles
 En todos los niveles el jugador debe ir primero por la llave.
 * _NIVEL 1_: Habrán 3 enemigos durante todo el nivel(serpiente, bomba y fuego), cuida de que no te toquen. Cuida tu tiempo y tus vidas. Dirígete a la puerta y pasa de nivel.
