@@ -10,8 +10,9 @@ Juego de huir y sobrevivir, 3 niveles que pondrán a prueba tu estrategia de esc
 El jugador tiene que superar 3 niveles, debe evitar tocar a los enemigos y cuidar mucho sus vidas.
 
 ## Descripción del Juego
+![](https://lh3.googleusercontent.com/-ZAMm874kb1s/WzZV059AlpI/AAAAAAAAApY/SQ1RFCiOxbUKVUJPwZfyLQZVP81R6GicgCL0BGAs/w130-d-h200-n-rw/frente.png)
 
-El Juego tiene lugar en un escenario en el que se encuentran diferentes enemigos, tales como serpiente, fantasma, bomba, fuego y demonio.
+* El Juego tiene lugar en un escenario en el que se encuentran diferentes enemigos, tales como serpiente, fantasma, bomba, fuego y demonio.
 La misión del jugador es atravesar el escenario cuidando de no tocar a los enemigos, por cada vez que el jugador sea tocado por un enemigo o el veneno de la serpiente así como cuando su tiempo se termine se le descontará una vida, pero ojo puede renovar una vida cada vez que logre recolectar las vidas extras que se encuentran en el escenario. Para pasar de un nivel a otro debe ir por la llave que cuida el demonio, despúes dirigirse a la puerta que apareció. Reunir los bonus que vayan apareciendo es opcional, pero ojo al final se sabrá el motivo por el que se deben reunir. El jugador dispone de las teclas de dirección izquierda, derecha, arriba y abajo para poder moverse en el escenario.
 
 ## Enemigos que se encuentran
