@@ -18,10 +18,10 @@ La misión del jugador es atravesar el escenario cuidando de no tocar a los enem
 
 Existen 5 enemigos:
 
-* **Bomba**: Este enemigo se estará moviendo en el escenario con la habilidad de explotar y reintegrarse.
-* **Fuego**: ![]()Este enemigo tiene un movimiento aleatorio en el escenario, cuida de no quemarte.
+* **Bomba**: ![](https://lh3.googleusercontent.com/-pmL0a1zfA_o/WzWidnWHUNI/AAAAAAAAAo0/Aivv8pTGPWgHVXx8xNCTl-zU-2GKLXNUACL0BGAs/w100-d-h100-n-rw/bomba.png)Este enemigo se estará moviendo en el escenario con la habilidad de explotar y reintegrarse.
+* **Fuego**: ![](https://lh3.googleusercontent.com/-8CFmHn-foek/WzWf3FrhS-I/AAAAAAAAAnQ/Ia1bnfd8K1cvU3q1RfLdYrdgmh2q0w7oACL0BGAs/w100-d-h100-n-rw/fuego.png)Este enemigo tiene un movimiento aleatorio en el escenario, cuida de no quemarte.
 * **Fantasma**: ![](https://lh3.googleusercontent.com/-A0fVeSb-j8E/WzWfxj7xrMI/AAAAAAAAAm8/pzvILrcXC8U7OMGLqOOTDzb4kSVSpQXYACL0BGAs/w171-d-h120-rw/fantasma.png)Este enemigo tiene la habilidad de aparecer y desaparecer, cuidado puede tocarte sin que lo veas.
-* **Serpiente**: ![]()Este enemigo tiene la capacidad de disparar veneno que se mueve aleatoriamente, es un arma de doble filo tanto ella como                  su veneno son mortales.
+* **Serpiente**: ![](https://lh3.googleusercontent.com/-9ChIakcwHms/WzWf542HQVI/AAAAAAAAAno/l6FEM2tbSsMQPwbDrOo3ztNnccwESX9VACL0BGAs/w100-d-h100-n-rw/serpiente.png)Este enemigo tiene la capacidad de disparar veneno que se mueve aleatoriamente, es un arma de doble filo tanto ella como                  su veneno son mortales.
 * **Demonio**: ![](https://lh3.googleusercontent.com/-px4ptC6TAic/WzWftVFXSDI/AAAAAAAAAmo/f3MlhAUhNSgjD6GWoZN5SVHdyVXdmzTFwCL0BGAs/w100-d-h88-n-rw/demonio.png)Este enemigo estará cuidando la llave que te mostrará la puerta oculta, esquívalo y gana.
 
 ## Niveles
