@@ -23,7 +23,7 @@ Existen 5 enemigos:
 * **Fuego**: ![](https://lh3.googleusercontent.com/-8CFmHn-foek/WzWf3FrhS-I/AAAAAAAAAnQ/Ia1bnfd8K1cvU3q1RfLdYrdgmh2q0w7oACL0BGAs/w100-d-h100-n-rw/fuego.png)Este enemigo tiene un movimiento aleatorio en el escenario, cuida de no quemarte.
 * **Fantasma**: ![](https://lh3.googleusercontent.com/-A0fVeSb-j8E/WzWfxj7xrMI/AAAAAAAAAm8/pzvILrcXC8U7OMGLqOOTDzb4kSVSpQXYACL0BGAs/w171-d-h120-rw/fantasma.png)Este enemigo tiene la habilidad de aparecer y desaparecer, cuidado puede tocarte sin que lo veas.
 * **Serpiente**: ![](https://lh3.googleusercontent.com/-9ChIakcwHms/WzWf542HQVI/AAAAAAAAAno/l6FEM2tbSsMQPwbDrOo3ztNnccwESX9VACL0BGAs/w100-d-h100-n-rw/serpiente.png)Este enemigo tiene la capacidad de disparar veneno que se mueve aleatoriamente, es un arma de doble filo tanto ella como                  su veneno son mortales.
-* **Demonio**: ![](https://lh3.googleusercontent.com/-px4ptC6TAic/WzWftVFXSDI/AAAAAAAAAmo/f3MlhAUhNSgjD6GWoZN5SVHdyVXdmzTFwCL0BGAs/w100-d-h88-n-rw/demonio.png)Este enemigo estará cuidando la llave que te mostrará la puerta oculta, esquívalo y gana.
+* **Demonio**: ![](https://lh3.googleusercontent.com/-25m5orSR9LE/Wzk15kEyq2I/AAAAAAAAAqA/D2HGE8alfgQmoyAxyZ61M9wrEQLSWNwvwCL0BGAs/w130-d-h150-n-rw/demonio.png)Este enemigo estará cuidando la llave que te mostrará la puerta oculta, esquívalo y gana.
 
 ## Niveles
 En todos los niveles el jugador debe ir primero por la llave.
