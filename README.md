@@ -33,7 +33,7 @@ En todos los niveles el jugador debe ir primero por la llave.
 
 # Links
 * [Video en YouTube](https://www.youtube.com/watch?v=EmDzJA7_YQc&t=5s)
-* [Galería en Greenfoot]()
+* [Galería en Greenfoot](http://www.greenfoot.org/scenarios/21829)
 
 ## Autores
 * Elva Nayeli Bárcenas López
